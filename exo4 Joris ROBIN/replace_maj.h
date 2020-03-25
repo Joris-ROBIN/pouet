@@ -1,0 +1,1 @@
+void replace_maj (unsigned char*);

@@ -1,0 +1,1 @@
+void replace_arg (unsigned char*,unsigned char,unsigned char);

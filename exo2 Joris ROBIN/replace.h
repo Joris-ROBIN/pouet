@@ -1,0 +1,1 @@
+void replace (unsigned char*);
