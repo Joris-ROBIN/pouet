@@ -21,5 +21,7 @@ printf ("la chaine n'est pas un palindrome\n");
 if (res==1)
 printf("la chaine est un palindrome\n");
 
+
+free(b)
 return 0;
 }
